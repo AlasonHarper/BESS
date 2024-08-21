@@ -1,0 +1,10 @@
+fastapi
+sqlalchemy
+databases
+pytz
+psycopg2
+asyncpg
+sqlmodel
+bcrypt
+PyJwt
+python-dateutil
